@@ -1,2 +1,3 @@
 readme 1228
 second line dev
+Creating a new branch is quick & simple.
